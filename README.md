@@ -1,4 +1,9 @@
-## Hi there 👋
+## Masters in Information Systems | Apsiring Data Analyst
+🎓 Master’s Student in Information Systems at California State University, Long Beach.
+
+🔭 Current Focus: Strengthening my Python and data analysis skills through hands-on machine learning projects, exploring key Python libraries, and refining my SQL expertise using real-world datasets.
+
+🌱 Learning in Progress: Deep-diving into Business Data Analytics, Data Visualization, and advanced Information Systems concepts.
 
 <!--
 **bhavyasamtani/bhavyasamtani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
