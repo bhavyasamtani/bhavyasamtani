@@ -5,6 +5,8 @@
 
 🌱 Learning in Progress: Deep-diving into Business Data Analytics, Data Visualization, and advanced Information Systems concepts.
 
+📫 Connect with Me: https://www.linkedin.com/in/bhavyasamtani/
+
 <!--
 **bhavyasamtani/bhavyasamtani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
