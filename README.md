@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analyst | SQL • Python • Tableau • Power BI<br>5+ years optimizing data pipelines, improving data quality, and building dashboards that drive operational decisions across global financial systems.
+Data Analyst | SQL • Python • Tableau • Power BI • AI/ML • Excel • Data Analysis • Data Modelling • Data Validation • ETL<br>5+ years optimizing data pipelines, improving data quality, and building dashboards that drive operational decisions across global financial systems.
 
 
 ## 🌐 Socials:
